@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nicholas Mendez
-#### I'm a Caribbean Based Software Developer
+#### I'm a Caribbean based Software Developer
 
 Skills: HTML/CSS/JS ANGULAR, REACT, EXPRESS, FLASK, DJANGO, PHP, NODE, SQL, PWA'S
 
