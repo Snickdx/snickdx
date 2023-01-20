@@ -5,7 +5,7 @@ Skills: HTML/CSS/JS ANGULAR, REACT, EXPRESS, FLASK, DJANGO, PHP, NODE, SQL, PWA'
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning VUE 
-- 📫 How to reach me: snickdx@gmail.com 
+- 📫 How to reach me: nicholas@mendez.codes
 - 😄 Pronouns: He/Him 
 
 
